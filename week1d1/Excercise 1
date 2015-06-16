@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-pink.css">
+    </head>
+    <body>
+        <header>
+            <h1>HTML practice</h1>
+        </header>
+        <section>
+            <header>
+                <h2>People asking questions</h2>
+                <h3>June 15, 2015</h3>
+                <h4>Dmitriy Pravda</h4>
+            </header>
+        </section>
+        <article>
+            <p>Let's practise <u>more</u></p>
+            <p>Hope to get my webpage visualized properly</p>
+            <p>Graphs and visuals are crucial. Let's see what this course teaches us =)</p>
+        </article>
+        <aside>
+            <section>
+                <h4>Widget</h4>
+            </section>
+                <p>About the <strong>author</strong></p>
+        </aside>
+    </body>
+</html>
