@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Skeleton HTML</title>
+    </head>
+    <body>
+        <header>
+        <h1>This is our header</h1>
+        </header>
+        <article>
+        <!-- This is what we do here -->
+            <p>This is <strong>my first paragraph</strong></p>
+            <p>This is <em>my second paragraph</em>></p>
+        </article>
+        <aside>
+            <p> About the <u>author</u> </p>
+        </aside>
+        <footer>
+        <p>Copyright 2015</p>
+        </footer>
+    </body>
+</html>
