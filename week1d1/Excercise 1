@@ -1,23 +1,30 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-pink.css">
+    <h1> Dmitriy Pravda's Blog </h1>
     </head>
     <body>
         <header>
+        <img src="http://fc03.deviantart.net/fs71/f/2013/206/1/9/simple_linux_logo_by_dablim-d5k4ghu.png">
             <h1>HTML practice</h1>
+            <section>
+                <header>
+                    <img src="http://placekitten.com/200/150">
+                </header>
+            </section>
         </header>
         <section>
             <header>
-                <h2>People asking questions</h2>
+                <h2> People <u><em>asking</em></u> questions</h2>
                 <h3>June 15, 2015</h3>
-                <h4>Dmitriy Pravda</h4>
+                <h4><em>Dmitriy</em> <span style=color:blue;>Pravda</span></h4>
             </header>
         </section>
         <article>
             <p>Let's practise <u>more</u></p>
-            <p>Hope to get my webpage visualized properly</p>
-            <p>Graphs and visuals are crucial. Let's see what this course teaches us =)</p>
+                <span style=color:orange>
+            <p>Hope to get my webpage visualized properly</p></span>
+            <p>Graphs and visuals are <strong>crucial</strong>. Let's see what this course teaches us =)</p>
         </article>
         <aside>
             <section>
